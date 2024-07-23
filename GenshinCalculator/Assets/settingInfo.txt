@@ -1,0 +1,5 @@
+here:C:\Users\sean_\source\repos\GenshinCalcwithGUI\GenshinCalcwithGUI\Assets
+uuid:801849100
+#Assetsフォルダー直下に置くこと
+#uuid:800235460
+#uuid:809916234
